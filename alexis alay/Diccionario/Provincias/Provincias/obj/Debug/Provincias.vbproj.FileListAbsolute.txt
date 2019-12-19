@@ -1,0 +1,23 @@
+C:\Users\crist\source\repos\Provincias\Provincias\bin\Debug\Provincias.exe.config
+C:\Users\crist\source\repos\Provincias\Provincias\bin\Debug\Provincias.exe
+C:\Users\crist\source\repos\Provincias\Provincias\bin\Debug\Provincias.pdb
+C:\Users\crist\source\repos\Provincias\Provincias\bin\Debug\Provincias.xml
+C:\Users\crist\source\repos\Provincias\Provincias\obj\Debug\Provincias.vbprojAssemblyReference.cache
+C:\Users\crist\source\repos\Provincias\Provincias\obj\Debug\Provincias.Form1.resources
+C:\Users\crist\source\repos\Provincias\Provincias\obj\Debug\Provincias.Resources.resources
+C:\Users\crist\source\repos\Provincias\Provincias\obj\Debug\Provincias.vbproj.GenerateResource.cache
+C:\Users\crist\source\repos\Provincias\Provincias\obj\Debug\Provincias.vbproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Provincias\Provincias\obj\Debug\Provincias.exe
+C:\Users\crist\source\repos\Provincias\Provincias\obj\Debug\Provincias.xml
+C:\Users\crist\source\repos\Provincias\Provincias\obj\Debug\Provincias.pdb
+C:\Users\alexis\Desktop\alexis alay\Provincias\Provincias\bin\Debug\Provincias.exe.config
+C:\Users\alexis\Desktop\alexis alay\Provincias\Provincias\bin\Debug\Provincias.exe
+C:\Users\alexis\Desktop\alexis alay\Provincias\Provincias\bin\Debug\Provincias.pdb
+C:\Users\alexis\Desktop\alexis alay\Provincias\Provincias\bin\Debug\Provincias.xml
+C:\Users\alexis\Desktop\alexis alay\Provincias\Provincias\obj\Debug\Provincias.vbprojAssemblyReference.cache
+C:\Users\alexis\Desktop\alexis alay\Provincias\Provincias\obj\Debug\Provincias.Form1.resources
+C:\Users\alexis\Desktop\alexis alay\Provincias\Provincias\obj\Debug\Provincias.Resources.resources
+C:\Users\alexis\Desktop\alexis alay\Provincias\Provincias\obj\Debug\Provincias.vbproj.GenerateResource.cache
+C:\Users\alexis\Desktop\alexis alay\Provincias\Provincias\obj\Debug\Provincias.exe
+C:\Users\alexis\Desktop\alexis alay\Provincias\Provincias\obj\Debug\Provincias.xml
+C:\Users\alexis\Desktop\alexis alay\Provincias\Provincias\obj\Debug\Provincias.pdb
